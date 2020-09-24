@@ -27,7 +27,7 @@ require (
 	github.com/gogo/protobuf v1.2.2-0.20190723190241-65acae22fc9d
 	github.com/golang/protobuf v1.3.5
 	github.com/google/go-querystring v1.0.0 // indirect
-	github.com/google/gofuzz v1.1.0
+	github.com/google/gofuzz v1.2.0
 	github.com/google/tcpproxy v0.0.0-20180808230851-dfa16c61dad2
 	github.com/hashicorp/consul/api v1.7.0
 	github.com/hashicorp/consul/sdk v0.6.0
@@ -93,6 +93,7 @@ require (
 	google.golang.org/appengine v1.6.0 // indirect
 	google.golang.org/grpc v1.25.1
 	gopkg.in/square/go-jose.v2 v2.5.1
+	gotest.tools/v3 v3.0.2
 	k8s.io/api v0.16.9
 	k8s.io/apimachinery v0.16.9
 	k8s.io/client-go v0.16.9
